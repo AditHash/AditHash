@@ -45,7 +45,7 @@
   <img src="https://komarev.com/ghpvc/?username=adithash&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/AditHash"><img src="https://img.shields.io/github/followers/AditHash?label=Follow&style=social" alt="GitHub Followers" /></a>
   <a href="https://www.linkedin.com/in/aditya-dey-b533681b8/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dey-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gnncf4qmc@mozmail.com"><img src="https://img.shields.io/badge/Email-adey9217x%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:gnncf4qmc@mozmail.com"><img src="https://img.shields.io/badge/Email-gnncf4qmc%40mozmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 # 🔮 About Me
