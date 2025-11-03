@@ -74,11 +74,7 @@ AI/ML Engineer and Python Developer with 2 years of experience in backend develo
 
 ---
 
-# 🛠️ Tech Stack (neon glow)
 
-<p align="center">
-  <img alt="neon-line" src="https://img.shields.io/badge/TECH%20STACK-—%20Neon%20Glow-ff6a00?style=for-the-badge&logoColor=white" />
-</p>
 
 ## ⚙️ AI / ML
 <p>
