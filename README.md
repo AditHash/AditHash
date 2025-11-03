@@ -55,7 +55,7 @@ AI/ML Engineer and Python Developer with 2 years of experience in backend develo
 
 ---
 
-# 🚀 Projects & Case Studies (selected)
+# 🚀 Projects & Case Studies
 > RAG, LLMs, production pipelines, and platform-level automation.
 
 - **Policy Recommendation System —** RAG-driven personalization for an Australian insurance provider (11,000+ policies).  
