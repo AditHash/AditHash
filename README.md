@@ -2,6 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FFFF&height=200&section=header&text=Aditya%20Dey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Cloud%20Architect&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Backend+%26+Systems+Developer+%F0%9F%9B%A0%EF%B8%8F;Cloud+Architect+on+AWS+%E2%98%81%EF%B8%8F;LLM+Pipelines+%26+RAG+Systems+%F0%9F%94%97;Voice+AI+%7C+Agentic+Systems+%7C+MLOps" alt="Typing SVG"/>
+</p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Backend+Developer;MLOps+Engineer" alt="Typing SVG"/>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-dey-b533681b8/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,7 +29,7 @@
 ```python
 class AditHash:
     name       = "Aditya Dey"
-    title      = "AI/ML Engineer · Backend Developer · Cloud Architect"
+    title      = "AI/ML Engineer · Backend Developer · MLOps Engineer"
     location   = "Kolkata, India 🇮🇳"
     languages  = ["Python", "C++", "Rust"]
     focus      = ["LLM Pipelines", "Distributed Systems", "Cloud-Native AI"]
@@ -34,11 +41,14 @@ Backend-focused engineer with a strong interest in building clean, reliable syst
 
 I enjoy designing **enterprise-scale AI/ML architectures** on AWS — from OCR and document processing pipelines to multi-agent LLM systems — while keeping designs simple and maintainable. Currently focused on cloud-native AI, scalable distributed architectures, and real-world ML deployments.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=Building+things+that+scale+%F0%9F%9A%80;One+clean+API+at+a+time+%E2%9C%A8;From+Kolkata%2C+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+</p>
+
 ---
 
 ## 🧠 Currently Working On
 
-- 🏗️ **NIC Claims Processing Platform** — AI-powered insurance document processing pipeline (Textract + GPT + SageMaker + AWS ECS + MongoDB)
 - 🤖 **Multi-Agent Stock Analysis System** — A2A protocol orchestrator with specialist agents (research, financial, sentiment) routed through an LLM gateway (Groq / Ollama / OpenRouter)
 - 🦀 **Rust** — systems programming & memory safety
 - 📐 **System Design** — scalable backend architectures, distributed systems
