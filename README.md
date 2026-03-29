@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/aditya-dey-b533681b8/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:adey05689@gmail.com">
+  <a href="mailto:adityadey@protonmail.com">
     <img src="https://img.shields.io/badge/Email-adey05689%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://adithash.in">
