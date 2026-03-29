@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:adityadey@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-adey05689%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-adityadey%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
   <a href="https://adithash.in">
     <img src="https://img.shields.io/badge/Portfolio-adithash.in-00FFFF?style=for-the-badge&logo=safari&logoColor=black"/>
