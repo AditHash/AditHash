@@ -84,19 +84,99 @@ I enjoy designing **enterprise-scale AI/ML architectures** on AWS — from OCR a
 
 ## 🏗️ Featured Projects
 
-### 🔷 NIC Claims Processing Platform
-> Enterprise-scale AI document processing for insurance claims (~13 lakh claims/year)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/AditHash/Voice-RAG">Voice-RAG</a></h3>
+      <p>Voice-to-voice chatbot using AWS Nova Sonic with full RAG pipeline.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/AditHash/OptiIQ">OptiIQ</a> <sup>🔒</sup></h3>
+      <p>OptiWealth Alpha — Agentic portfolio optimization system.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agentic_AI-blueviolet?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/AditHash/StratifIQ">StratifIQ</a> <sup>🔒</sup></h3>
+      <p>Turn data into strategy with AI-driven company intelligence.</p>
+      <img src="https://img.shields.io/badge/AI-Intelligence-informational?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎤 <a href="https://github.com/AditHash/IntervueIQ">IntervueIQ</a> <sup>🔒</sup></h3>
+      <p>Platform for interview preparation and hiring — end-to-end.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://github.com/AditHash/Voice-Assistant">Voice-Assistant</a></h3>
+      <p>Real-time voice chatbot with support for multiple Indian languages.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎧 <a href="https://github.com/AditHash/Podcast-Generator">Podcast-Generator</a></h3>
+      <p>Generate full podcasts on any topic using Gemini Flash.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚨 <a href="https://github.com/AditHash/real-time-fraud-detection-with-kafka">Real-Time Fraud Detection</a></h3>
+      <p>Streaming fraud detection pipeline built with Apache Kafka.</p>
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>😂 <a href="https://github.com/AditHash/meme-generator">Meme Generator</a></h3>
+      <p>AI-powered meme generation using Google Gemini & Imagen.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/AditHash/Image-RAG">Image-RAG</a></h3>
+      <p>RAG pipeline with image understanding capabilities.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/AditHash/React-Portfolio-v2">React Portfolio v2</a></h3>
+      <p>Personal portfolio built with React + Vite, deployed via GitHub Actions.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 <a href="https://github.com/AditHash/Fake-News-Detection-using-ANN">Fake News Detection</a></h3>
+      <p>Fake news classifier using Artificial Neural Networks.</p>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⛏️ <a href="https://github.com/AditHash/unsupervised-mineral-prediction">Unsupervised Mineral Prediction</a></h3>
+      <p>Mineral classification using unsupervised ML techniques.</p>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 <a href="https://github.com/AditHash/bank-term-deposit-prediction">Bank Term Deposit Prediction</a></h3>
+      <p>Predicting bank term deposit subscriptions using classification models.</p>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
-- **Pipeline:** AWS Textract → GPT-OSS-120B / Qwen3 VL 235B (via Bedrock) → SageMaker Fraud Detection
-- **Infra:** ECS EC2 orchestrators, MongoDB Atlas, Redis, SQS, Redshift, S3
-- **Scale:** 200 concurrent users across 5 functional blocks (Upload, OCR+AI, ETL, ML, Serving)
-
-### 🔷 Multi-Agent Stock Analysis System
-> A2A-protocol orchestrator routing tasks across specialist LLM agents
-
-- **Agents:** Research, Financial, Sentiment (time-decay aggregation + conflict detection), Explainer
-- **LLM Gateway:** Groq · Ollama · OpenRouter with intelligent routing
-- **Stack:** FastAPI + Streamlit
+> 🔒 = Private repo · View more on [github.com/AditHash](https://github.com/AditHash)
 
 ---
 
