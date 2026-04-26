@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/aditya-dey-b533681b8/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:adithash@proton.me">
-    <img src="https://img.shields.io/badge/Email-adithash%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <a href="mailto:adityadey@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-adityadey%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
   <a href="https://adithash.in">
     <img src="https://img.shields.io/badge/Portfolio-adithash.in-00FFFF?style=for-the-badge&logo=safari&logoColor=black"/>
