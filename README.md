@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FFFF&height=200&section=header&text=Aditya%20Dey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Cloud%20Architect&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FFFF&height=200&section=header&text=Aditya%20Dey&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=[...]"/>
 </p>
 
 <!-- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Backend+%26+Systems+Developer+%F0%9F%9B%A0%EF%B8%8F;Cloud+Architect+on+AWS+%E2%98%81%EF%B8%8F;LLM+Pipelines+%26+RAG+Systems+%F0%9F%94%97;Voice+AI+%7C+Agentic+Systems+%7C+MLOps" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Backend+%26+System[...]"/>
 </p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Backend+Developer;MLOps+Engineer" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Backend+Developer;MLOps+Enginee[...]"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-dey-b533681b8/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:adityadey@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-adityadey%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <a href="mailto:adithash@proton.me">
+    <img src="https://img.shields.io/badge/Email-adithash%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
   <a href="https://adithash.in">
     <img src="https://img.shields.io/badge/Portfolio-adithash.in-00FFFF?style=for-the-badge&logo=safari&logoColor=black"/>
@@ -37,12 +37,12 @@ class AditHash:
     website    = "https://adithash.in"
 ```
 
-Backend-focused engineer with a strong interest in building clean, reliable systems and well-structured APIs. I work primarily with **Python** for backend development and **C++** for performance-critical logic, and I'm exploring **Rust** for modern systems programming.
+Backend-focused engineer with a strong interest in building clean, reliable systems and well-structured APIs. I work primarily with **Python** for backend development and **C++** for performance-c[...]
 
-I enjoy designing **enterprise-scale AI/ML architectures** on AWS — from OCR and document processing pipelines to multi-agent LLM systems — while keeping designs simple and maintainable. Currently focused on cloud-native AI, scalable distributed architectures, and real-world ML deployments.
+I enjoy designing **enterprise-scale AI/ML architectures** on AWS — from OCR and document processing pipelines to multi-agent LLM systems — while keeping designs simple and maintainable. Curre[...]
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=Building+things+that+scale+%F0%9F%9A%80;One+clean+API+at+a+time+%E2%9C%A8;From+Kolkata%2C+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=888888&center=true&vCenter=true&width=500&lines=Building+things+that+scale+%F0%9F%9A%80;One+clean+API+at+a[...]"/>
 </p>
 
 ---
