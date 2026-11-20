@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Aditya Dey — Backend Engineering and Applied AI</title>
+  <desc id="desc">Professional profile banner for Aditya Dey, focused on backend systems, applied AI and agentic workflows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#152A46"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#8DB7D6" stroke-width="0.7" opacity="0.12"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <path d="M0 0H1200" stroke="url(#accent)" stroke-width="6"/>
+  <rect x="72" y="62" width="48" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="133" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700" letter-spacing="-1.5">Aditya Dey</text>
+  <text x="74" y="177" fill="#5EEAD4" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">BACKEND ENGINEERING  /  APPLIED AI</text>
+  <text x="74" y="218" fill="#D5E3F2" font-family="Arial, Helvetica, sans-serif" font-size="22">Building reliable APIs, intelligent agents and useful AI systems.</text>
+  <rect x="72" y="246" width="466" height="41" rx="20.5" fill="#192F4B" stroke="#395672"/>
+  <text x="92" y="272" fill="#DCECF8" font-family="Arial, Helvetica, sans-serif" font-size="16">Python   ·   FastAPI   ·   LangGraph   ·   AWS</text>
+  <g opacity="0.8" fill="none" stroke-linecap="round">
+    <circle cx="1047" cy="171" r="127" stroke="#38BDF8" stroke-opacity="0.27" stroke-width="2"/>
+    <circle cx="1047" cy="171" r="92" stroke="#5EEAD4" stroke-opacity="0.30" stroke-width="2"/>
+    <circle cx="1047" cy="171" r="57" stroke="#93C5FD" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M918 172h258M1047 44v254" stroke="#93C5FD" stroke-opacity="0.19"/>
+  </g>
+  <g fill="#5EEAD4">
+    <circle cx="1047" cy="79" r="6"/>
+    <circle cx="1139" cy="171" r="6"/>
+    <circle cx="1047" cy="263" r="6"/>
+    <circle cx="955" cy="171" r="6"/>
+  </g>
+  <circle cx="1047" cy="171" r="12" fill="#38BDF8"/>
+</svg>
