@@ -1,5 +1,8 @@
 <div align="center">
   <img src="./assets/profile-banner.svg" alt="Aditya Dey — Backend Engineering and Applied AI" width="100%" />
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=5EEAD4&center=true&vCenter=true&width=850&lines=Backend+Engineering+%7C+Applied+AI;Building+LLM+Applications+and+Agentic+Systems;Designing+Reliable+APIs+and+Developer+Tools" alt="Animated intro: Backend Engineering, Applied AI, and reliable developer tools" />
+  </p>
   <p><strong>Backend Developer – AI</strong> · Kolkata, India</p>
   <p>
     <a href="https://adithash.in">Portfolio</a> &nbsp;·&nbsp;
@@ -55,6 +58,17 @@ I also study **data structures and algorithms in C++** and explore **Rust** for 
 ### Recognition
 
 **Rising Star – AI** and **AI Innovation Spark** (2026).
+
+### GitHub activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AditHash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aditya's GitHub contribution statistics" height="170" />
+  <img src="https://streak-stats.demolab.com?user=AditHash&theme=tokyonight&hide_border=true" alt="Aditya's GitHub contribution streak" height="170" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditHash&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most-used languages in public GitHub repositories" height="165" />
+</div>
+
+<sub>Live stats are rendered by third-party services and may occasionally be unavailable. Language distribution is based on public repository code, not overall proficiency.</sub>
 
 ---
 
